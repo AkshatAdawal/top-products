@@ -1,5 +1,6 @@
 # README
 
+Tools: Rails 5.0.6, Ruby 2.3.1p112
 This application implements following APIs:
 
 * **Add a product**:
